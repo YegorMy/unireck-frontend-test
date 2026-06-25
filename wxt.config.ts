@@ -6,6 +6,7 @@ export default defineConfig({
     name: "AI Brief Decoder Extension",
     description: "Decode briefs into structured summaries.",
     version: "0.0.1",
-    permissions: [],
+    permissions: ["clipboardWrite"],
+    host_permissions: ["http://localhost:8000/*"],
   },
 });
