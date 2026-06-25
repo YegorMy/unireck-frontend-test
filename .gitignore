@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Build output
+.output/
+
+# Generated WXT types
+.wxt/
+
+.env
+
+# Internal tooling metadata
+.hive/
+.hive-worktrees/
