@@ -1,5 +1,7 @@
 # Manual Testing Guide
 
+**English** · [Русский](./MANUAL_TESTING.ru.md)
+
 This document describes how to manually verify the AI Brief Decoder extension in Chrome.
 
 ## Prerequisites

@@ -1,5 +1,7 @@
 # AI Brief Decoder Extension
 
+**English** · [Русский](./README.ru.md)
+
 A minimal Chrome extension built with [WXT](https://wxt.dev/), React, and TypeScript.
 
 ## Package Manager
